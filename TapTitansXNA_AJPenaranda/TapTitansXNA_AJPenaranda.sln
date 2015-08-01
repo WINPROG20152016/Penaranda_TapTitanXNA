@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapTitansXNA_AJPenaranda", "TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda.csproj", "{9B3351DA-6A56-44BE-B730-FC6BCBAA9DA0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TapTitansXNA_AJPenarandaContent", "TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\TapTitansXNA_AJPenarandaContent.contentproj", "{735C7033-6FD5-4482-AD2D-F3E72D09C9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3351DA-6A56-44BE-B730-FC6BCBAA9DA0}.Debug|x86.ActiveCfg = Debug|x86
+		{9B3351DA-6A56-44BE-B730-FC6BCBAA9DA0}.Debug|x86.Build.0 = Debug|x86
+		{9B3351DA-6A56-44BE-B730-FC6BCBAA9DA0}.Release|x86.ActiveCfg = Release|x86
+		{9B3351DA-6A56-44BE-B730-FC6BCBAA9DA0}.Release|x86.Build.0 = Release|x86
+		{735C7033-6FD5-4482-AD2D-F3E72D09C9C1}.Debug|x86.ActiveCfg = Debug|x86
+		{735C7033-6FD5-4482-AD2D-F3E72D09C9C1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

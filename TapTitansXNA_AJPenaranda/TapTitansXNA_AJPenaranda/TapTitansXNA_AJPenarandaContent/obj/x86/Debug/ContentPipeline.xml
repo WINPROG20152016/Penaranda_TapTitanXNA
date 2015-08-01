@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background\background 1.png</Source>
+      <Name>Background\background 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Background\background 1.xnb</Output>
+      <Time>2015-06-20T09:31:03.1645917+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\trunks.png</Source>
+      <Name>Sprites\trunks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks.xnb</Output>
+      <Time>2015-07-25T08:13:14.1780246+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\trunks attack.png</Source>
+      <Name>Sprites\trunks attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks attack.xnb</Output>
+      <Time>2015-07-25T08:10:14.2813265+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Goten idle.png</Source>
+      <Name>Sprites\Goten idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten idle.xnb</Output>
+      <Time>2015-07-25T08:08:46.1268721+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Goten attack.png</Source>
+      <Name>Sprites\Goten attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten attack.xnb</Output>
+      <Time>2015-07-25T08:07:40.4562738+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-18T08:26:07.7764826+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\push me.png</Source>
+      <Name>Sprites\push me</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\push me.xnb</Output>
+      <Time>2015-07-18T09:23:29.48298+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Owl flying.png</Source>
+      <Name>Sprites\Owl flying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl flying.xnb</Output>
+      <Time>2015-07-25T08:17:33.6937177+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Owl hit.png</Source>
+      <Name>Sprites\Owl hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl hit.xnb</Output>
+      <Time>2015-07-25T08:43:41.5554201+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Goten explosion.png</Source>
+      <Name>Sprites\Goten explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten explosion.xnb</Output>
+      <Time>2015-07-25T10:27:40.2292267+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

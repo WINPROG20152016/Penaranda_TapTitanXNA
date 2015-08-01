@@ -1,0 +1,10 @@
+Content\Background\background 1.xnb
+Content\Sprites\trunks.xnb
+Content\Sprites\trunks attack.xnb
+Content\Sprites\Goten idle.xnb
+Content\Sprites\Goten attack.xnb
+Content\SpriteFont1.xnb
+Content\Sprites\push me.xnb
+Content\Sprites\Owl flying.xnb
+Content\Sprites\Owl hit.xnb
+Content\Sprites\Goten explosion.xnb
