@@ -52,6 +52,7 @@ namespace TapTitansXNA_AJPenaranda
                 if (Animation.isLooping)
                 {
                     frameIndex = (frameIndex + 1) % Animation.FrameCount;
+
                 }
                 else
                 {

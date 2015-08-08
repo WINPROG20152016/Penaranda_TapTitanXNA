@@ -30,3 +30,18 @@ C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPe
 C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl hit.xnb
 C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten explosion.xnb
 C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Background\background 1.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks attack.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten idle.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten attack.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\push me.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl flying.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl hit.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten explosion.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\TapTitansXNA_AJPenaranda.exe
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\TapTitansXNA_AJPenaranda.pdb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.exe
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.pdb

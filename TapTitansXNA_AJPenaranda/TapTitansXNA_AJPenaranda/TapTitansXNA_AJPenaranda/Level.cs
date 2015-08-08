@@ -28,6 +28,9 @@ namespace TapTitansXNA_AJPenaranda
         int damageNumber = 0;
 
         Button playButton;
+
+        public int HitButton;
+        public int notButton;
         
         #endregion
 
@@ -66,8 +69,13 @@ namespace TapTitansXNA_AJPenaranda
             if(playButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed))
             {
                 damageNumber += 1;
+               
+                HitButton = 1;
+                
             }
         }
+
+        
 
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {

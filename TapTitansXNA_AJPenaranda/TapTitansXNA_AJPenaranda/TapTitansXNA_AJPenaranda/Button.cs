@@ -118,13 +118,9 @@ namespace TapTitansXNA_AJPenaranda
             {
                 int[] data = new int[texture.Width * texture.Height];
                 texture.GetData<int>(data);
-                if ((x - (int)tx) + (y - (int)ty) *
-                    texture.Width < texture.Width * texture.Height)
+                if ((x - (int)tx) + (y - (int)ty) *texture.Width < texture.Width * texture.Height)
                 {
-                    return ((data[
-                        (x - (int)tx) + (y - (int)ty) * texture.Width
-                        ] &
-                                0xFF000000) >> 24) > 20;
+                    return ((data[(x - (int)tx) + (y - (int)ty) * texture.Width] & 0xFF000000) >> 24) > 20;
                 }
             }
             return false;

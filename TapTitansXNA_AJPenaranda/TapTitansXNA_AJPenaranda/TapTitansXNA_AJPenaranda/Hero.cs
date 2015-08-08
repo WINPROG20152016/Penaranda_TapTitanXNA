@@ -25,6 +25,7 @@ namespace TapTitansXNA_AJPenaranda
         Texture2D GotenExplosion;
         ContentManager content;
         Level level;
+        
         int positionX;
         int positionY;
         int trunks = 1;
@@ -106,54 +107,102 @@ namespace TapTitansXNA_AJPenaranda
         }
         public void Update(GameTime gameTime)
         {
-            if (trunksSwitch == 1)
+            //if (trunks == 0)
+            //{
+
+            if (level.HitButton == 1)
             {
-                if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released)
-                {
+                positionX = (Level.windowWidth / 2) - (TrunksAttack.Width / 4) + 337;
+                positionY = (Level.windowHeight / 2) - (TrunksAttack.Height / 4) + 55;
+                TrunksPosition = new Vector2((float)positionX, (float)positionY);
+                spritePlayerTrunks.PlayAnimation(attackAnimationTrunks);
+
+                positionX = (Level.windowWidth / 2);
+                positionY = (Level.windowHeight / 2) - 15;
+                OwlPosition = new Vector2((float)positionX, (float)positionY);
+                spritePlayerOwl.PlayAnimation(animationOwlHit);
+
+                level.HitButton = 0;
+            }
+
+            /*else if (level.HitButton == 0)
+            {
+                positionX = (Level.windowWidth / 2) - (TrunksIdle.Width / 4) + 280;
+                positionY = (Level.windowHeight / 2) - (TrunksIdle.Height / 4) + 60;
+                TrunksPosition = new Vector2((float)positionX, (float)positionY);
+                spritePlayerTrunks.PlayAnimation(idleAnimationTrunks);
+
+                //level.HitButton = 1;
+            }*/
+
+            //if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released /* &&level.HitButton == 1 && trunks == 0*/)
+                //{
                     
-                    if (trunks == 0)
+                    /*if (trunks == 0)
                     {
                         positionX = (Level.windowWidth / 2) - (TrunksAttack.Width / 4) + 337;
                         positionY = (Level.windowHeight / 2) - (TrunksAttack.Height / 4) + 55;
                         TrunksPosition = new Vector2((float)positionX, (float)positionY);
+                        spritePlayerTrunks.PlayAnimation(attackAnimationTrunks);
                         trunks = 1;
-                    }
-                    spritePlayerTrunks.PlayAnimation(attackAnimationTrunks);
+                    }*/
+                    //positionX = (Level.windowWidth / 2) - (TrunksAttack.Width / 4) + 337;
+                    //positionY = (Level.windowHeight / 2) - (TrunksAttack.Height / 4) + 55;
+                   // TrunksPosition = new Vector2((float)positionX, (float)positionY);
+                    //spritePlayerTrunks.PlayAnimation(attackAnimationTrunks);
+                    //level.HitButton = 0;
+                    //trunks = 1;
+                //}
+        
 
-                }
-                else if (level.mouseState.RightButton == ButtonState.Pressed && level.oldMouseState.RightButton == ButtonState.Released)
+               else if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released)
                 {
                     
-                    if (trunks == 1)
+                    /*if (trunks == 1)
                     {
                         positionX = (Level.windowWidth / 2) - (TrunksIdle.Width / 4) + 280;
                         positionY = (Level.windowHeight / 2) - (TrunksIdle.Height / 4) + 60;
                         TrunksPosition = new Vector2((float)positionX, (float)positionY);
                         trunks = 0;
                     }
+                    spritePlayerTrunks.PlayAnimation(idleAnimationTrunks);*/
+
+                   
+                    positionX = (Level.windowWidth / 2) - (TrunksIdle.Width / 4) + 280;
+                    positionY = (Level.windowHeight / 2) - (TrunksIdle.Height / 4) + 60;
+                    TrunksPosition = new Vector2((float)positionX, (float)positionY);
                     spritePlayerTrunks.PlayAnimation(idleAnimationTrunks);
 
+                    positionX = (Level.windowWidth / 2);
+                    positionY = (Level.windowHeight / 2) - 30;
+                    OwlPosition = new Vector2((float)positionX, (float)positionY);
+                    spritePlayerOwl.PlayAnimation(animationOwlFlying);
                 }
-            }
+            //}
 
             if (gotenSwitch == 1)
             {
-                if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released)
+                if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released)// && level.HitButton == 0)
                 {
-                     if (goten == 0)
+                    /*if (goten == 0)
                     {  
                         positionX = (Level.windowWidth / 2) - (GotenAttack.Width / 4) + 110;
                         positionY = (Level.windowHeight / 2) - (GotenAttack.Height / 4) + 60;
                         GotenPosition = new Vector2((float)positionX, (float)positionY);
                         GotenExplosionPosition = new Vector2((float)positionX + 40, (float)positionY + 10);
+                        spritePlayerGoten.PlayAnimation(attackAnimationGoten);
                         goten = 1;
-                    }
-                    spritePlayerGoten.PlayAnimation(attackAnimationGoten);
-                  
-                   
+                    }*/
+                    /*positionX = (Level.windowWidth / 2) - (GotenAttack.Width / 4) + 110;
+                    positionY = (Level.windowHeight / 2) - (GotenAttack.Height / 4) + 60;
+                    GotenPosition = new Vector2((float)positionX, (float)positionY);
+                    GotenExplosionPosition = new Vector2((float)positionX + 40, (float)positionY + 10);
+                    spritePlayerGoten.PlayAnimation(attackAnimationGoten);*/
+
+
 
                 }
-                else if (level.mouseState.RightButton == ButtonState.Pressed && level.oldMouseState.RightButton == ButtonState.Released)
+                /*else if (level.mouseState.RightButton == ButtonState.Pressed && level.oldMouseState.RightButton == ButtonState.Released)
                 {
                     
                     if (goten == 1)
@@ -165,33 +214,37 @@ namespace TapTitansXNA_AJPenaranda
                     }
                     spritePlayerGoten.PlayAnimation(idleAnimationGoten);
 
-                }
+                }*/
             }
 
-            if (owlSwitch == 1)
+           /* if (owl == 1)
             {
-                if (trunks == 0 && goten == 0)
+                if (trunks == 0)
                 {
                     positionX = (Level.windowWidth / 2);
                     positionY = (Level.windowHeight / 2) - 30;
                     OwlPosition = new Vector2((float)positionX, (float)positionY);
                     spritePlayerOwl.PlayAnimation(animationOwlFlying);
                 }
-                else
+                else if (level.HitButton == 1)
                 {
                     positionX = (Level.windowWidth / 2);
                     positionY = (Level.windowHeight / 2) - 15;
                     OwlPosition = new Vector2((float)positionX, (float)positionY);
                     spritePlayerOwl.PlayAnimation(animationOwlHit);
                 }
-            }
+            }*/
         }
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
             spritePlayerTrunks.Draw(gameTime, spriteBatch, TrunksPosition, SpriteEffects.None);
             spritePlayerGoten.Draw(gameTime, spriteBatch, GotenPosition, SpriteEffects.None);
             spritePlayerOwl.Draw(gameTime, spriteBatch, OwlPosition, SpriteEffects.None);
-            spritePlayerGotenExplosion.Draw(gameTime, spriteBatch, GotenExplosionPosition, SpriteEffects.None);
+
+            if (goten == 1)
+            {
+                spritePlayerGotenExplosion.Draw(gameTime, spriteBatch, GotenExplosionPosition, SpriteEffects.None);
+            }
         }
     }
 }

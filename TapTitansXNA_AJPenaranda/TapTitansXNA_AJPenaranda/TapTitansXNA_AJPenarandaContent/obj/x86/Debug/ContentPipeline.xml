@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Background\background 1.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Background\background 1.xnb</Output>
       <Time>2015-06-20T09:31:03.1645917+08:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks.xnb</Output>
       <Time>2015-07-25T08:13:14.1780246+08:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks attack.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\trunks attack.xnb</Output>
       <Time>2015-07-25T08:10:14.2813265+08:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten idle.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten idle.xnb</Output>
       <Time>2015-07-25T08:08:46.1268721+08:00</Time>
     </Item>
     <Item>
@@ -43,17 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten attack.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten attack.xnb</Output>
       <Time>2015-07-25T08:07:40.4562738+08:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2015-07-18T08:26:07.7764826+08:00</Time>
     </Item>
     <Item>
       <Source>Sprites\push me.png</Source>
@@ -61,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\push me.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\push me.xnb</Output>
       <Time>2015-07-18T09:23:29.48298+08:00</Time>
     </Item>
     <Item>
@@ -70,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl flying.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl flying.xnb</Output>
       <Time>2015-07-25T08:17:33.6937177+08:00</Time>
     </Item>
     <Item>
@@ -79,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl hit.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Owl hit.xnb</Output>
       <Time>2015-07-25T08:43:41.5554201+08:00</Time>
     </Item>
     <Item>
@@ -88,8 +79,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten explosion.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\Sprites\Goten explosion.xnb</Output>
       <Time>2015-07-25T10:27:40.2292267+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-18T08:26:07.7764826+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -97,10 +97,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\istudent\Documents\Penaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenarandaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
