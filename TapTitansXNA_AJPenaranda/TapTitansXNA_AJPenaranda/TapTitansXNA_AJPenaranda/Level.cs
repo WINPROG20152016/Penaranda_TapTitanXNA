@@ -23,15 +23,16 @@ namespace TapTitansXNA_AJPenaranda
         int mouseX, mouseY;
 
         Hero hero;
+        Animation animation;
 
         SpriteFont damageStringFont;
-        int damageNumber = 0;
+        public int damageNumber = 0;
+        int x;
 
         Button playButton;
 
         public int HitButton;
-        public int notButton;
-        
+                
         #endregion
 
         public Level(ContentManager cont)
@@ -61,7 +62,6 @@ namespace TapTitansXNA_AJPenaranda
             prev_mpressed = mpressed;
             mpressed = mouseState.LeftButton == ButtonState.Pressed;
             
-
             hero.Update(gameTime);
 
             oldMouseState = mouseState;
@@ -69,9 +69,7 @@ namespace TapTitansXNA_AJPenaranda
             if(playButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed))
             {
                 damageNumber += 1;
-               
                 HitButton = 1;
-                
             }
         }
 
@@ -83,7 +81,6 @@ namespace TapTitansXNA_AJPenaranda
             hero.Draw(gameTime, spriteBatch);
             spriteBatch.DrawString(damageStringFont, damageNumber + " Damage!", Vector2.Zero, Color.White);
             playButton.Draw(gameTime, spriteBatch);
-            //spriteBatch.Draw(player, playerPosition, null, Color.White, 0.0f, Vector2.Zero, 2f, SpriteEffects.None, 0);
         }
     }
 }

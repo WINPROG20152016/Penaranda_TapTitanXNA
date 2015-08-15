@@ -45,3 +45,4 @@ C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\
 C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.exe
 C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.pdb
+C:\Users\istudent\Documents\Penaranda\Penaranda GitHub\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\TapTitansXNA_AJPenaranda\obj\x86\Debug\TapTitansXNA_AJPenaranda.csprojResolveAssemblyReference.cache
